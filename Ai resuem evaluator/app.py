@@ -259,7 +259,7 @@ submit = st.button("Submit")
 
 if submit:
     if uploaded_files and jd:
-        # Define weights for each section
+        
         resume_scores = []
         resumes_for_ranking = "" 
         for uploaded_file in uploaded_files:
