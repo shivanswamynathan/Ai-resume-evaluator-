@@ -1,5 +1,0 @@
-streamlit
-python-dotenv
-PypDF2
-langgraph
-google.generativeai
