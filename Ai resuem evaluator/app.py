@@ -154,11 +154,6 @@ def rank_resumes_with_llm(resumes_for_ranking, jd):
     except Exception as e:
         return f"Error: {str(e)}"
     
-    try:
-        response = genai.GenerativeModel('gemini-1.5-flash').generate_content(prompt)
-        return response.text.strip()
-    except Exception as e:
-        return f"Error: {str(e)}"
 
 # Streamlit App
 st.markdown("""
