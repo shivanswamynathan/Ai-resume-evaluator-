@@ -1,0 +1,38 @@
+About the job
+
+Key Responsibilities:
+
+Data Profiling and EDA
+
+· Conduct initial profiling and discovery of data to assess quality, completeness, and suitability for analysis.
+· Data Quality Assessment
+· Data Structure Analysis
+· Data Relationships – Well versed with SQL query. Working experience in Snowflake will be a great advantage.
+· Value Distribution: Data profiling analyses the distribution of values within each data field or column. It helps in identifying patterns, outliers, and anomalies in the data distribution, which can provide insights into data trends and potential data issues.
+· Automated Exploratory data analysis tools or python libraries
+Transformation:
+
+· Execute various phases of data transformation based on the dataset and business logic requirements.
+· Exposure to tools like dbt, Snowflake, Azure DF, Informatica
+· Examples include but are not limited to:
+o Care gaps analytics (identification and reporting)
+o Clinical quality measures
+o Population health cohort building and analysis.
+o Revenue cycle metrics development and analysis
+o Payer behaviour analysis and contract modelling
+Visualisation:
+
+· Experience with data visualisation tool like Power BI, Tableau or Quick Sight will be a big plus.
+Data Mining:
+
+· Utilize analytical methods and pre-built reporting environments/sandboxes to explore key combinations of attributes and metrics.
+Interpretation / Evaluation:
+
+· Qualifications:
+- Bachelor’s degree in data science, Computer Science, Statistics, Mathematics, or a related field. Master's degree preferred.
+- Proven experience in data analysis, transformation
+- Proficiency in data mining techniques and tools, with a strong understanding of statistical analysis and machine learning algorithms.
+- Strong communication and collaboration skills, with the ability to effectively present complex data analysis results to non-technical stakeholders.
+- Proficiency in data visualization tools such as Tableau, Power BI, or similar platforms.
+- Familiarity with programming languages such as SQL, Python, or R for data analysis and manipulation.
+

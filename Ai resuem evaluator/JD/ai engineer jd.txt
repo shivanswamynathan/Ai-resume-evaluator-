@@ -1,0 +1,27 @@
+Responsibilities:
+
+Design, develop, and deploy generative AI models
+Leveraging your expertise in Generative AI, Python, Machine Learning, Data Science, and Statistics to develop cutting-edge solutions for our clients.
+Utilizing NLP techniques, LangChain, and LLM's to develop conversational chatbots and language models tailored to our clients' needs.
+Collaborating with cross-functional teams to design and implement advanced AI models and algorithms.
+Providing technical expertise and thought leadership in the field of Generative AI and NLP to guide clients in adopting AI-driven solutions.
+Conducting data analysis, preprocessing, and modeling to extract valuable insights and drive data-driven decision-making.
+Staying up to date with the latest advancements in AI technologies, frameworks, and tools, and proactively learning and adopting new technologies to enhance our offerings.
+Demonstrating a strong understanding of cloud platforms, particularly GCP, for deploying AI applications.
+
+
+Required Technical and Professional Expertise
+
+
+Machine Learning and GenAI: Strong understanding of machine learning and GenAI concepts. Awareness of ethical implications in GenAI, including bias, fairness, and privacy.
+Python and Data Science Libraries: Proficiency in Python and relevant data science libraries (e.g., NumPy, Pandas, scikit-learn). Practice on Graph database and Vector DB. 
+Computer Vision: Yolo, object detection, classification models. Ideally segmentation and anomaly detection.
+Container Development: Solid hands-on experience in microservices development, Relational DB development, K8S and/or Redhat OpenShift, especially with AWS.
+Large Language Models: Familiarity with LLMs, including their architectures, capabilities, and limitations. Skill in crafting effective prompts to guide LLMs and obtain desired outputs. Ability to handle and prepare data for analysis, including data cleaning, normalization, and feature engineering
+
+Preferred Technical And Professional Expertise
+
+
+Experience in converting model formats to CoreML and Tensorflow Lite.
+Experience on PostgreSQL and Redis DB (or other service caching mechanism).
+AI agent/agentic workflow concepts.

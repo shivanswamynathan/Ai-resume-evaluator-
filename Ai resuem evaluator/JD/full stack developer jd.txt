@@ -1,0 +1,24 @@
+Job Description
+
+We are looking for a Full Stack Developer to work on a service built on time-based, self-learning and predictive technology. We prefer someone with strong technical skills and creativity; someone who thrives on solving difficult problems and working with innovative technologies.
+
+This person should be passionate about sharing their ideas and obsessive about user experience and beautiful code.
+
+Your primary responsibility will be to work with a small team of designers, product owners, QA and engineers on developing and improving features. You should be familiar with modern software development methods and be able to dive deep with your team and quickly brainstorm ideas despite of ambiguity.
+
+Experience/Skills Required
+
+Exposure to Cloud Applications Development, Micro-services Applications development and deployment, monitoring, CI/CD process & K8S, Docker.
+Experience in service based application development (REST/SOAP).
+Exposure to various API’s, developing single page HTML5 applications & high load web applications.
+Strong SQL/MySQL/Database skills.
+Experience in script writing (PHP, Perl, Shell, Python).
+Industry experience with large scale enterprise software products.
+Knowledge of software design principles and best practices.
+Strong problem solving and analytical skills.
+Excellent communication and collaboration skills (Advanced English).
+Attention to detail and a commitment to quality.
+Ability to work independently and as part of a team.
+B.Tech/B.E/M.Tech in Computer Science or related engineering discipline from a reputed institute with consistently good academic record from Xth onwards.
+
+This role demands a strong expertise in backend development with Java and Spring frameworks while possessing basic knowledge of front-end technologies like Angular or React. The ideal candidate will also have experience in leading teams and working in Banking or Telecom domains. Key Responsibilities: 1. Backend Development (80%): a. Design, develop, and maintain scalable backend systems using Java, Spring Frameworks (Spring Boot, JPA/MVC). b. Build and integrate microservices with a focus on RESTful APIs. c. Work with databases using SQL and optimize query performance. d. Leverage Kafka for messaging and event-driven architecture. e. Implement coding best practices for data structures and algorithms to ensure system efficiency. 2. Front-end Development (20%): a. Collaborate on UI development using Angular or React, ensuring seamless integration with backend services. b. Ensure responsive and user-friendly design for web applications. 3. Team Leadership: a. Lead and mentor a team of developers, fostering collaboration and skill development. b. Assign tasks, conduct code reviews, and ensure the timely delivery of high-quality outputs. c. Facilitate Agile ceremonies like sprint planning, daily stand-ups, and retrospectives. 4. DevOps and Deployment: a. Work with tools like Docker and Kubernetes for containerization and orchestration. b. Collaborate with DevOps teams to streamline CI/CD pipelines and deployments. 5. Domain Expertise: a. Bring domain knowledge and insights to projects in Banking or Telecom to deliver impactful solutions. b. Collaborate with stakeholders to translate business requirements into technical solutions. Required Skills & Experience: • Backend Expertise: o Java (advanced coding skills), Spring Boot, Spring Frameworks, JPA/MVC. o Experience in microservices architecture and REST APIs. o Proficiency in SQL, data structures, and algorithms. • Frontend Skills: o Basic experience with Angular or React for UI development and integration. • Tools & Platforms: o Kafka, Docker, Kubernetes, Git, Agile methodologies. • Leadership: o Prior experience leading a team of developers. o Excellent collaboration and communication skills. • Domain Knowledge: o Experience in Banking or Telecom is a plus. Preferred Qualifications: • Proven track record of delivering high-quality, scalable solutions. • Familiarity with Agile development and DevOps practices. • Strong problem-solving skills and ability to work in a fast-paced environment.

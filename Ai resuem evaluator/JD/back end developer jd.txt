@@ -1,0 +1,30 @@
+Minimum Qualifications:
+
+
+
+Design robust APIs to support website clients.
+Experience with Drupal 9 and above implementation best practices, such as utilizing a CI Tool like Git or GitHub.
+ Migration expertise from Drupal to any other platform database.
+Expert knowledge of database technologies like SQL and MySQL.
+Work with other development team members to ensure at least 99% site uptime.
+4-5+ years of experience using version control and source code management tools.
+Manage and optimize scalable distributed systems in the cloud.
+Develop automated tests to ensure business needs are met and allow for regression testing.
+Optimize web applications for performance and scalability.
+Experience in writing highly secure web applications.
+Experience with core AWS web-enabling technologies.
+Excellent foundation in computer science, algorithms, and web design.
+Developed new and maintained existing applications.
+Worked on time-sensitive and complex projects.
+Strong communication and problem-solving skills.
+
+Skills
+
+ Proven experience with Java, Python, Go
+ Proven experience with Testing frameworks (TestNG, Mockito desired)
+ Working knowledge of shell scripting, JavaScript
+ Comfortable with SQL and Oracle Database development
+ Demonstrable software engineering skills (Algorithms, Object Oriented Programming)
+ Comfortable with IDEs for Java Development. Eclipse desired.
+ Strong documentation and communication skills
+ Working knowledge of container technology (Docker and Kubernetes)

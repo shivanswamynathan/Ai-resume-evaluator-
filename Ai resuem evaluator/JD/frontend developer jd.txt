@@ -1,0 +1,23 @@
+Job Overview:
+
+
+Key Responsibilities:
+
+Develop and maintain web applications using ReactJS and Next.js. 
+Implement state management with libraries like Redux or Zustand. 
+Debug and resolve issues, optimizing code for performance. 
+Integrate and test APIs using tools like Postman. 
+Translate designs from tools like Figma into pixel-perfect UIs. 
+Write type-safe and maintainable code with TypeScript. 
+Conduct thorough reviews of codebases to ensure quality and functionality. 
+Collaborate effectively with team members and participate in code reviews. 
+
+
+Requirements:
+
+Proficiency in ReactJS, Next.js, and JavaScript/TypeScript. 
+Experience with state management libraries (Redux, Zustand, etc.). 
+Strong debugging and performance optimization skills. 
+Excellent understanding of modern frontend development practices. 
+Proven ability to translate designs into responsive components. 
+Strong communication and analytical skills. 
